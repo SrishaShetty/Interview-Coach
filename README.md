@@ -16,3 +16,5 @@ AI Interview Coach is a Python and NLP-powered desktop app that predicts job rol
 - Upload your resume (PDF format)
 - Answer the questions and view feedback
 
+# Dataset
+Dataset available on Kaggle. Search by file or folder names used in this project.
